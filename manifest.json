@@ -1,0 +1,9 @@
+{
+  "name": "Jonloc Voice",
+  "voice_id": "jonloc-001",
+  "sample_type": "audio",
+  "samples": [
+    "https://github.com/victoria202522/playht/blob/main/jonloc.m4a"
+  ],
+  "language": "en"
+}
